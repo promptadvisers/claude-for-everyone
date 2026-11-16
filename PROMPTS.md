@@ -34,7 +34,7 @@ Using only the three supplied reports, write a one-page briefing for an operatio
 
 ## Lab 2 · Audit the draft brief
 
-Attach the three short reports and flawed-brief.md from 02-synthesis/lab.
+Attach all three files in 02-synthesis/inputs and flawed-brief.md in 02-synthesis/lab.
 
 ```text
 Check this draft against the three reports. For each factual claim, mark it as supported, contradicted or unsupported and give the report and page or section. Rewrite the weakest claim using only what the sources establish.
