@@ -13,6 +13,8 @@ The full desktop walkthrough uses an updated Claude Desktop app on Mac or Window
 
 5. **05-artifacts.** Start with the two Mission Control prompts. Open the [first build](05-artifacts/Mission-Control-Build.html) and the [edited version](05-artifacts/Mission-Control.html) in a browser if you want to try them without Claude. Select a planet, pause the orbits, and use Reset view.
 
+6. **06-skills.** Install [Receipt checker](06-skills/README.md), then repeat the two-receipt exercise with a short prompt. Read the skill instructions before uploading the ZIP.
+
 Use fresh copies of the files to try an edit. Every example is fictional and designed for this workshop. The outputs give you a way to finish the same checks if the live tool is unavailable or takes longer than the class slot.
 
 ## Product references

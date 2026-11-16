@@ -91,3 +91,13 @@ Update this same Artifact. Start with Mars selected, and add a Reset view button
 ```
 
 **Check:** Mars starts selected. Reset view selects Earth and pauses the orbits
+
+## Demo · Receipt checker skill
+
+Install the Receipt checker skill from 06-skills, then attach the two PDFs from 01-receipts/lab in a fresh chat.
+
+```text
+Use my receipt-checker skill on these two receipts. For this fictional classroom dataset, both receipts are in USD. Create receipt_skill_check.xlsx.
+```
+
+**Check:** Skill loaded, two source rows and a formula total of USD 50.65

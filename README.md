@@ -21,3 +21,8 @@ After trying it, compare with the [checked audit](02-synthesis/examples/checked-
 - [April sales inputs and checked outputs](03-sales/ANSWER-KEY.md)
 - [Weekly briefing examples](04-repeat/examples/)
 - [Mission Control build and edit prompts](PROMPTS.md#demo--build-mission-control). Download the ZIP and open the HTML files in `05-artifacts/` to try the example offline.
+
+
+## Receipt checker skill
+
+Download and install the [Receipt checker skill](06-skills/README.md), then use it with the two Lab 1 receipts. The folder includes its readable SKILL.md, the installable ZIP, the exact short prompt, and a tested workbook.
